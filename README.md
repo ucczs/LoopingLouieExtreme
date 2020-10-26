@@ -2,7 +2,13 @@
 
 This is a project finished in 2016 which optimizes the board game [Looping Louie](https://de.wikipedia.org/wiki/Looping_Louie) with different game modes and some visual effects.
 
-Following an incomplete hardware list:
+### Highlights of the game modes:
+* Manual speed adjustment with a rotary control
+* Random speed forward
+* Random speed forward and backward
+* Limited speed manipulation of the players by "item buttons" (increase and decrease speed once per game)
+
+### Hardware list:
 * Looping Louie
 * Arduino Nano
 * L293D (driver for the motor)
@@ -11,4 +17,6 @@ Following an incomplete hardware list:
 * Transistors
 * Resistors
 * LEDs
+* Potentiometer
+* Switch Buttom
 * Push Button
