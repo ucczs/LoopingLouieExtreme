@@ -1,0 +1,8 @@
+H-Bridge:
+http://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/
+https://www.youtube.com/watch?v=5nDaHJqruq0
+
+Schieberegister:
+( https://www.arduino.cc/en/Tutorial/ShiftOut )
+für LEDs: STP16C596
+http://www.tigoe.com/pcomp/code/arduinowiring/534/

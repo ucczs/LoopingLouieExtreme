@@ -1,0 +1,18 @@
+
+
+
+	|
+	|
+14 Ds	|serial data input
+	|
+	|
+11 SHcp	|shift register clock input
+	|
+	|
+
+
+
+pins auf platine:
+links	clock pin
+mitte	latch pin
+rechts	data pin
